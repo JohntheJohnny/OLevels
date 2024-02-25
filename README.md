@@ -1,2 +1,2 @@
 # OLevels
- In this repo insted of code i will contsin the notes of each subject
+ In this repo instead of code i will contain the notes of each subject,
